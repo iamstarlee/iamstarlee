@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on BISTU, Beijing
-- 🌱 I’m currently learning quite a lot(machine learning etc)
+- 🔭 I’m currently a computer vision algorithm engineer
+- 🌱 I’m currently learning quite a lot(attention based image processing etc)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
