@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently a computer vision algorithm engineer
+- 🔭 I’m currently working on computer vision and open source.
 - 🌱 I’m currently learning quite a lot(attention based image processing etc)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
