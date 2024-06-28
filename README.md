@@ -24,5 +24,9 @@ Here are some ideas to get you started:
 	  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 	  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 	</picture>
+	<!-- ########################################## 分割 ########################################## -->
+	<img width="200%" src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/assets/images/hr.gif" />
+	
+	
 </div>
 
