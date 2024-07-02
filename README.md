@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- dynamic typing effect 动态打字效果 -->
 	  <div>
 	    <a href="https://blog.sunguoqi.com/">
-	      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%22Hello%2C%20World%22;你好，世界!&center=true&size=27" />
+	      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello World;你好，世界!&center=true&size=27" />
 	    </a>
 	  </div>
 	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamstarlee&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
