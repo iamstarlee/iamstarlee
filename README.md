@@ -32,15 +32,33 @@ Here are some ideas to get you started:
 	    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
 	    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 	  </picture>
-	<!-- ########################################## 分割 ########################################## -->
-	<img width="200%" src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/assets/images/hr.gif" />
-	
-	
 </div>
 
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                503 commits         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+🌆 Daytime                547 commits         ████████░░░░░░░░░░░░░░░░░   30.59 % 
+🌃 Evening                445 commits         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+🌙 Night                  293 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Tuesday                  142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Wednesday                270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Thursday                 239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Friday                   563 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
+Saturday                 149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Sunday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+```
+
+
 <div align="center" >
-
-
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/assets/images/hr.gif" />
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
 
@@ -103,3 +121,4 @@ Here are some ideas to get you started:
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+</div>
