@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Followers Count</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body>
+    <h1>GitHub Followers Count</h1>
+    <p>Your GitHub followers count: <span id="followersCount">Loading...</span></p>
+
+    <script>
+        // Replace with your GitHub username and access token
+        const username = 'iamstarlee';
+        const accessToken = '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';
+
+        // GitHub API endpoint to get user followers
+        const apiUrl = `https://api.github.com/users/${username}`;
+
+        // Axios library for making HTTP requests
+        axios.get(apiUrl, {
+            headers: {
+                Authorization: `token ${accessToken}`
+            }
+        })
+        .then(response => {
+            const followersCount = response.data.followers;
+            document.getElementById('followersCount').textContent = followersCount;
+        })
+        .catch(error => {
+            console.error('Error fetching GitHub followers count:', error);
+        });
+    </script>
+</body>
+</html>
