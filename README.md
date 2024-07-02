@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 	    </a>
 	  </div>
 	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamstarlee&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-	<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=iamstarlee&theme=dark"/>
 	<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamstarlee&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 	<img src="https://stats.justsong.cn/api/csdn?id=qq_41731507&theme=chartreuse-dark">
 	<img src="https://stats.justsong.cn/api/leetcode?username=starleeisamyth&cn=true&theme=chartreuse-dark">
@@ -106,7 +105,11 @@ Here are some ideas to get you started:
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/assets/images/hr.gif" />
-
+<p align="center">
+  <img height="150" width="150" src="WEBP/left.webp"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="WEBP/right.webp"/>
+</p>
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
