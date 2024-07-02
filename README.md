@@ -1,4 +1,3 @@
-### Hi there 👋, I am Xinxin
 
 <!--
 **iamstarlee/iamstarlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +18,7 @@ Here are some ideas to get you started:
 <!-- dynamic typing effect 动态打字效果 -->
 	  <div>
 	    <a href="https://blog.sunguoqi.com/">
-	      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello World;你好，世界!&center=true&size=27" />
+	      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello World;Hi, I'm Xinxin&center=true&size=27" />
 	    </a>
 	  </div>
 	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamstarlee&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -32,33 +31,14 @@ Here are some ideas to get you started:
 	    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
 	    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 	  </picture>
+	
 </div>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                503 commits         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-🌆 Daytime                547 commits         ████████░░░░░░░░░░░░░░░░░   30.59 % 
-🌃 Evening                445 commits         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-🌙 Night                  293 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Tuesday                  142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Wednesday                270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Thursday                 239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Friday                   563 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
-Saturday                 149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Sunday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-```
 
 
 <div align="center" >
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/assets/images/hr.gif" />
+
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
 
@@ -122,3 +102,47 @@ Sunday                   263 commits         ████░░░░░░░�
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 </div>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/assets/images/hr.gif" />
+
+<!-- GitHub metrics 信息指标 -->
+<div align="center">
+
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
+
+<!-- first form 第一个表格 -->
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/github-metrics/people.followers.svg" alt="people.followers" /></td>
+  </tr>
+</table>
+
+<!-- second form 第二个表格 -->
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/github-metrics/reactions.svg" alt="reactions" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+  </tr>
+</table>
