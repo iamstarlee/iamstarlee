@@ -1,4 +1,4 @@
-### Hi there 👋, i am Xinxin
+### Hi there 👋, I am Xinxin
 
 <!--
 **iamstarlee/iamstarlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
