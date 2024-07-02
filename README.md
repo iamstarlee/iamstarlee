@@ -103,8 +103,11 @@ Here are some ideas to get you started:
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 </div>
 
+<div align="center" >
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/assets/images/hr.gif" />
+<!-- run 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamstarlee&theme=dark&hide_border=true"/>
@@ -112,5 +115,5 @@ Here are some ideas to get you started:
 </p>
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 </div>
