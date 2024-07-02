@@ -110,27 +110,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamstarlee&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="WEBP/right.webp"/>
 </p>
-<!-- GitHub metrics 信息指标 -->
-<div align="center">
 
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
-
-<!-- first form 第一个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
-
-<!-- second form 第二个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-</table>
-![GitHub Followers](https://cdn.jsdelivr.net/gh/iamstarlee/iamstarlee@main/index.html)
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 </div>
