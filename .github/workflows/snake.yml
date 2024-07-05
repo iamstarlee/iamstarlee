@@ -1,8 +1,9 @@
 name: Snake Contrib
  
 on:
+  # run automatically every 24 hours
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */24 * * *" 
    
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -31,8 +32,8 @@ jobs:
           #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
           #                 Exactly 5 colors are expected.
           outputs: |
-            dist/profile-snake-contrib//github-snake.svg
-            dist/profile-snake-contrib/github-snake-dark.svg?palette=github-dark
+            dist/profile-snake-contrib/github-contribution-grid-snake.svg
+            dist/profile-snake-contrib/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/profile-snake-contrib/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       
       # push the content of <build_dir> to a branch
