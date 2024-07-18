@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 	      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello World;Hi, I'm Xinxin&center=true&size=27" />
 	    </a>
 	  </div>
-	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamstarlee&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-	<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamstarlee&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+	<!-- GitHub 数据统计 -->
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iamstarlee&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iamstarlee&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 	<img src="https://stats.justsong.cn/api/csdn?id=qq_41731507&theme=gruvbox">
 	<img src="https://stats.justsong.cn/api/leetcode?username=starleeisamyth&cn=true&theme=gruvbox">
 	​<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -30,8 +31,7 @@ Here are some ideas to get you started:
 	    <source media="(prefers-color-scheme: dark)" srcset="profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 	    <source media="(prefers-color-scheme: light)" srcset="profile-snake-contrib/github-contribution-grid-snake.svg" />
 	    <img alt="github-snake" src="profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-	  </picture>
-	
+	  </picture>	
 </div>
 
 
@@ -113,6 +113,15 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamstarlee&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="WEBP/right.webp"/>
 </p>
+	
+<!-- Joke 笑话 -->
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
+    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+  </picture>
+</div>
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
