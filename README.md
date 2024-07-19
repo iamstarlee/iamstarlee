@@ -114,6 +114,12 @@ Here are some ideas to get you started:
   <img height="150" width="150" src="WEBP/right.webp"/>
 </p>
 	
+
+
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+</div>
+
 <!-- Joke 笑话 -->
 <div>
   <picture>
@@ -121,8 +127,4 @@ Here are some ideas to get you started:
     <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
     <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
   </picture>
-</div>
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 </div>
