@@ -1,13 +1,19 @@
 name: Snake Contrib
  
 on:
+  push:
+    branches:
+      - main
   # run automatically every 24 hours
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 0 * * *" 
    
   # allows to manually run the job at any time
   workflow_dispatch:
- 
+
+permissions:
+       id-token: write
+       contents: read
 jobs:
   generate:
     permissions:
