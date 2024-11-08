@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- dynamic typing effect 动态打字效果 -->
 	  <div>
 	    <a href="https://blog.sunguoqi.com/">
-	      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello World;Hi, This is Xinxin&center=true&size=27" />
+	      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello World;This is Xinxin&center=true&size=27" />
 	    </a>
 	  </div>
 	<!-- GitHub 数据统计 -->
