@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamstarlee&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamstarlee&theme=light&hide_border=true"/>
   <img height="150" width="150" src="WEBP/right.webp"/>
 </p>
 	
