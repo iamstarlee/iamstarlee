@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
 <!-- dynamic typing effect 动态打字效果 -->
 <p>
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=This+is+Xinxin" alt="typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi,this+is+Xinxin+Li" alt="typing-svg">
 </p>
 
 <!-- GitHub 数据统计 -->
